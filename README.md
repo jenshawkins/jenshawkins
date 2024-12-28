@@ -7,9 +7,9 @@ I'm Jen, a RATE ANALYST, SOON-TO-BE DATA SCIENTIST currently living in Austin, T
 - 🌱 I’m currently learning ... NLP
 - 💬 Ask me about ... Recent Tableau Projects
 - 😄 Pronouns: ... she/her
-- ⚡ Fun fact: ... I love going to art galleries, museums, events
+- ⚡ Fun fact: ... I love going to art galleries, museums, and any event.
 - 🤝 Connect with me on LinkedIn ... (https://www.linkedin.com/in/jeandriska/)
-- 🎈 In my free time, I like to ... watch movies, motivation, docuseries, challenges
+- 🎈 In my free time, I like to ... watch movies, motivation, docuseries, challenges, and visit family.
 
 This is where I keep my code and projects. Feel free to look around and contact me if you have questions.
 
