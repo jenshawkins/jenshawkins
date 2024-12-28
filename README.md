@@ -15,7 +15,7 @@ This is where I keep my code and projects. Feel free to look around and contact 
 
 
 ## 👨‍💻 Data Projects I've Made:
-- [Life or Death: Healthcqre SQL Project](https://www.linkedin.com/pulse/life-death-trip-hospital-jen-hawkins-hhzpc/) 
+- [Life or Death: Healthcare SQL Project](https://www.linkedin.com/pulse/life-death-trip-hospital-jen-hawkins-hhzpc/) 
 
 In this project, I talk about my life-or-death family experience and operational differences in 101k healthcare patients.
 
