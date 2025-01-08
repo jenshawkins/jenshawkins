@@ -3,8 +3,8 @@
 Welcome to my GitHub profile :)
 I'm Jen, a RATE ANALYST, SOON-TO-BE DATA SCIENTIST currently living in Austin, TX.
 
-- 🔭 I’m currently working on HR Analytics Stats + R Project
-- 🌱 I’m currently learning ... NLP
+- 🔭 I’m currently working on Machine Learning and GenAI projects.
+- 🌱 I’m currently learning ... Machine Learning on Big Data.
 - 💬 Ask me about ... Recent Tableau Projects
 - 😄 Pronouns: ... she/her
 - ⚡ Fun fact: ... I love going to art galleries, museums, and any event.
