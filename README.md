@@ -1,7 +1,7 @@
 ### Hey! I'm Jen Hawkins👋
 
 Welcome to my GitHub profile :)
-I'm Jen, a RATE ANALYST, SOON-TO-BE DATA SCIENTIST currently living in Austin, TX.
+I'm Jen, Data Scientist / Data Analyst currently living in Austin, TX.
 
 - 🔭 I’m currently working on Machine Learning and GenAI projects.
 - 🌱 I’m currently learning ... Machine Learning on Big Data.
